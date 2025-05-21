@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository demonstrates a comparative study of Machine Learning and Deep Learning models applied to supply chain demand forecasting. The goal is to:
+This repository demonstrates a comparative study of Machine Learning and Deep Learning (GRU, LSTM) models applied to supply chain demand forecasting. The goal is to:
 
 1. **Forecast future sales** by understanding historical sales trends.
 2. **Optimize inventory** to match store stock with actual demand and reduce storage costs.
