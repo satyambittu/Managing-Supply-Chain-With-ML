@@ -1,6 +1,6 @@
 # Supply Chain Forecasting with Deep Learning
 
-## Overview
+## Overview 
 
 This repository demonstrates a comparative study of Machine Learning and Deep Learning (GRU, LSTM) models applied to supply chain demand forecasting. The goal is to:
 
